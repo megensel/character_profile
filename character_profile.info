@@ -1,0 +1,6 @@
+name = Character Profile
+description = Role Playing Character Profile Manager
+core = 7.x
+files[] = character_profile.module
+package = "Role Playing Tools"
+
